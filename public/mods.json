@@ -1,0 +1,68 @@
+[
+  {
+    "id": "rls_career_overhaul",
+    "name": "Career Overhaul",
+    "description": "",
+    "category": "core",
+    "state": "Public",
+    "directDownload": "https://github.com/RLS-Modding/rls_career_overhaul/releases/latest/download/rls_career_overhaul_2.6.2_hotfix.zip",
+    "version": "2.6.2_hotfix",
+    "imageUrl": "./imgs/rls-career.png",
+    "assetPattern": "rls_career_overhaul_\\d+\\.\\d+\\.\\d+-?\\w*\\.zip$"
+  },
+  {
+    "id": "rls_career_non_repo",
+    "name": "Non-Repo Collection",
+    "description": "",
+    "category": "core",
+    "state": "Public",
+    "directDownload": "https://www.patreon.com/file?h=143578011&m=568542368",
+    "version": "",
+    "imageUrl": "./imgs/no-repo.png",
+    "assetPattern": "^rls_non_repo_mods.*\\.zip$"
+  },
+  {
+    "id": "rls_bruckell_ravix",
+    "name": "Bruckell Ravix",
+    "description": "",
+    "category": "vehicle",
+    "state": "Beta",
+    "directDownload": "https://www.patreon.com/file?h=148299856&m=597798937",
+    "version": "0.0.1",
+    "imageUrl": "./imgs/ravix.png",
+    "assetPattern": "^rls_bruckell_ravix.*\\.zip$"
+  },
+  {
+    "id": "rls_career_italy",
+    "name": "Italy",
+    "description": "",
+    "category": "map",
+    "state": "Public",
+    "directDownload": "https://www.patreon.com/file?h=147831477&m=594403894",
+    "version": "2.0",
+    "imageUrl": "./imgs/italy.png",
+    "assetPattern": "rls_career_overhaul_italy_\\d+\\.\\d+\\.zip$"
+  },
+  {
+    "id": "rls_career_utah",
+    "name": "Utah",
+    "description": "",
+    "category": "map",
+    "state": "Public",
+    "directDownload": "https://www.patreon.com/file?h=146200310&m=582985369",
+    "version": "0.38",
+    "imageUrl": "./imgs/utah.png",
+    "assetPattern": "^rls_career_(?:overhaul_)?utah_\\d+\\.\\d+\\.zip$"
+  },
+  {
+    "id": "rls_career_hirochi",
+    "name": "Hirochi Raceway",
+    "description": "",
+    "category": "map",
+    "state": "Public",
+    "directDownload": "https://www.patreon.com/file?h=146197949&m=582975584",
+    "version": "0.38",
+    "imageUrl": "./imgs/hirochi.png",
+    "assetPattern": "^rls_career_overhaul_hir?iochi(?:_raceway)?_\\d+\\.\\d+\\.zip$"
+  }
+]
