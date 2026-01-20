@@ -1,12 +1,11 @@
-# RLS Installer
-
-A desktop mod installer for the RLS Career Overhaul mods for BeamNG.drive.
-Install and update your favorite RLS mods with one click.
+# RLS Installer - Install and update your favorite RLS mods with one click. 
+A Unofficial mod installer for the Public mods from [RLS Studio](https://www.patreon.com/cw/racelessrls) & [RLS Vehicle Labs](https://www.patreon.com/cw/RLSVehicleLabs)
+<img src="https://i.ibb.co/C5fVfv66/image.png" alt="image" border="0"><img src="https://i.ibb.co/60rf7vZG/image.png" alt="image" border="0">
 
 ## Installation
 
 1. **Prerequisites**: Make sure BeamNG.drive is installed and you've launched it at least once.
-2. **Download**: Get the latest RLS Installer from your distribution source (e.g., GitHub Releases).
+2. **Download**: Get the latest RLS Installer from [here](https://github.com/Sh0uf/RLS-installer/releases/latest)
 3. **Install**: Run the installer and follow any Windows security prompts.
 4. **Launch**: Start RLS Installer—it will automatically detect your BeamNG mods folder.
 
